@@ -11,11 +11,10 @@
   },
   "author": "Mostafa Eweda <mo.eweda@gmail.com>",
   "dependencies": {
-   
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
+    "lodash": "^4.17.4",
     "mongodb": "^2.2.29",
     "mongoose": "^4.11.1"
-    
   }
 }
